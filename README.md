@@ -8,6 +8,8 @@ You need **Meteor**, **Meteorite**, **Node.js** and **npm** in order to make thi
 And afterwards you can run the example using:
 ``mrt``
 
+Make sure you change the file **private/twitter.json**. You have to register a Twitter application and paste the keys in this file.
+
 ## Tutorial
 This example is being used in my [tutorial](http://g00glen00b.be/meteor-twitter-streaming). Make sure to check it out.
 
