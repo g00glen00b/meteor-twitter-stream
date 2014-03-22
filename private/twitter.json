@@ -1,0 +1,11 @@
+{
+	"consumer": {
+		"key": "xxxxxxxxxxxxxxxxxxx",
+		"secret": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+	},
+	"access_token": {
+		"key": "00000000-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+		"secret": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+	},
+	"hashtag": "#javascript"
+}
